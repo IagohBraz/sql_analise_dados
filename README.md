@@ -1,12 +1,12 @@
 # Curso Aberto de SQL 
 
-Bem-vindo ao Curso Aberto de SQL!
+Bem-vindo ao Curso Aberto em SQL!
 
 Este curso é voltado para analistas de dados, cientistas de dados e qualquer pessoa interessada em aprimorar suas habilidades em manipulação utilizando a linguegem SQL. Não importa se você é um iniciante completo ou já possui algum conhecimento prévio, este curso irá guiá-lo passo a passo, desde os conceitos básicos até tópicos mais avançados.
 
 Acreditamos que compartilhar conhecimento é essencial para impulsionar a comunidade de dados como um todo. Por isso, encorajamos você a interagir, fazer perguntas e compartilhar suas experiências ao longo dos estudos. Juntos, podemos ampliar nossos conhecimentos e fortalecer a capacidade analítica de todos.
 
-## **O repositorio será atualizado nas terças e sextas até a finalização do curso**
+## O repositorio será atualizado nas terças e sextas até a finalização do curso
 - Inicio: 23/06/2023
 - Ultima atualização: 21/06/2023
   - README
