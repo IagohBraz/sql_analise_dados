@@ -10,7 +10,7 @@ Acreditamos que compartilhar conhecimento é essencial para impulsionar a comuni
 - Inicio: 23/06/2023
 - Ultima atualização: 21/06/2023
   - README
-- Previsão de finalização: 23/08/2023
+- Previsão de finalização: 25/08/2023
 
 
 # Pré-requisitos
