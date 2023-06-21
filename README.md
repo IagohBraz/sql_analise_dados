@@ -1,6 +1,6 @@
-# Curso Aberto de SQL 
+# Curso Aberto de SQL para Análise de Dados
 
-Bem-vindo ao Curso Aberto em SQL!
+É um prazer compartilhar um pouco do meu conhecimento com vocês!
 
 Este curso é voltado para analistas de dados, cientistas de dados e qualquer pessoa interessada em aprimorar suas habilidades em manipulação utilizando a linguegem SQL. Não importa se você é um iniciante completo ou já possui algum conhecimento prévio, este curso irá guiá-lo passo a passo, desde os conceitos básicos até tópicos mais avançados.
 
@@ -45,3 +45,6 @@ Este repositório é organizado da seguinte forma:
 
 # Contribuição
 Sinta-se à vontade para contribuir para este curso aberto de SQL! Se você encontrar algum erro, tiver sugestões de melhoria ou desejar adicionar novos conteúdos, fique à vontade para me contactar ou enviar um pull request para este repositório. A colaboração da comunidade é fundamental para tornar este curso cada vez melhor.
+
+
+
